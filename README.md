@@ -1,0 +1,3 @@
+- 👋 ola,meu nome e Samuel
+- 👀 Edstudante Alura star
+- 🌱 Plataforma para projetos
